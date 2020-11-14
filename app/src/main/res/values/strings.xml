@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KalkulatorBidangDatar</string>
+    <string name="kalkulator">Kalkulator Bidang Datar</string>
+    <string name="PAD"></string>
+    <string name="panjang_alas_diameter">panjang/alas/diameter</string>
+    <string name="luas_panjang">luas/panjang</string>
+    <string name="luas">Luas</string>
+    <string name="keliling">Keliling</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="persegi">Persegi</string>
+    <string name="lingkaran">Lingkaran</string>
+
+</resources>
